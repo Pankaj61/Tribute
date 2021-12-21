@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Tribute</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1"/>
+        <link rel="stylesheet" href="css/style.css">
+    </head>
+    <body>
+        <div id="main-heading"> 
+            <h1 class="heading1">A TRIBUTE TO OUR CDS</h1>
+        </div>
+        <div id="image-area">
+            <div class="inner-img-area">
+                <img src="image/1.jpg" class="inner-img1"/>
+                <img src="image/2.jpg" class="inner-img1" />
+            </div>
+            <div class="inner-img-area">
+                <img src="image/3.jpg" class="inner-img1 img-height"/>
+
+            </div>
+            <div class="inner-img-area">
+                <img src="image/4.jpg" class="inner-img1"/>
+                <img src="image/5.jpg" class="inner-img1"/>
+            </div>
+        </div>
+        <div id="massage-box">
+            <p>“You Have Never Lived Until You Have Almost Died, And For Those Who Choose To Fight,<br>
+            Life Has A Special Flavor, The Protected Will Never Know!!!”<br>
+            "Late. CDS GENRAL VIPIN RAWAT"
+            </p>
+        </div>
+        <div id="achievement">
+            <div class="achi">
+                <h2>About CDS Vipin Rawt</h2>
+                <p>General Bipin Rawat (16 March 1958 – 8 December 2021) was an Indian military officer who was a four-star general of the Indian Army. He served as the first Chief of Defence Staff (CDS) of the Indian Armed Forces from January 2020 until his death in a helicopter crash in December 2021. Prior to taking over as the CDS, he served as the 57th Chairman of the Chiefs of Staff Committee as well as 26th Chief of Army Staff of the Indian Army.</p>
+            </div>
+            <div class="achi">
+                <ul>
+                    <li>Param Vishisht Seva Medal</li>
+
+                    <li>Uttam Yudh Seva Medal</li>
+                        
+                    <li>Ati Vishisht Seva Medal</li>
+                        
+                    <li>Yudh Seva Medal</li>   
+                        
+                    <li>Sena Medal</li>    
+                        
+                    <li>Vishisht Seva Medal</li>
+                        
+                    <li>Wound Medal</li>   
+                        
+                    <li>Samanya Seva Medal</li>    
+                        
+                    <li>Special Service Medal</li>     
+                        
+                    <li>Operation Parakram Medal</li> 
+                        
+                    <li>Sainya Seva Medal</li>     
+                           
+                       <li>MONUSCO</li>
+                </ul>
+            </div>
+        </div>
+        <div class="footer">
+            <p>Developed by: Pankaj Negi</p>
+        </div>
+    </body>
+</html>
